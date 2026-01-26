@@ -39,6 +39,13 @@ Once an NCIP is submitted for review, our editors can help you to import the doc
 | [13](https://docs.google.com/document/d/1L8d3KyO_Z6_BYcmDeMs-yv_SBYiEHiq_4kT0CjBmlFY/edit) | PoS Transition | JC Kim, Swen | Core | Accepted |
 | [14](https://docs.google.com/document/d/1oRftGvdTEaeH4zh2XYa6dToHZ394x5JeU_a7bRIPxM0/edit?usp=sharing) | Opening an Internal Lending Service | JH Kim | Ecosystem | Accepted |
 | [15](NCIP/ncip-15.md) | Usage based transaction limiting, and migrating from activation system | Swen Mun, Gilhwan Cheong, Libplanet Team | Core | Final |
-| [16](NCIP/ncip-16.md) | Allowing item transfer with level design consideration | Swen Mun, Jaeho Lee, Seungmin Hyun | Core | Draft |
-| [17](NCIP/ncip-17.md) | Revise `ClaimStakeReward` | Swen Mun, Nine Chronicles DX team <engineering@planetariumhq.com> | Core | Draft |
-| [18](NCIP/ncip-18.md) | Retrieve FunngibleAssetValue transfer from avatar to agent | ChunUng Yang, Nine Chronicles team <9c-dev@planetariumhq.com> | Core | Draft |
+| [16](NCIP/ncip-16.md) | Allowing item transfer with level design consideration | Swen Mun, Jaeho Lee, Seungmin Hyun | Core | Final |
+| [17](NCIP/ncip-17.md) | Revise `ClaimStakeReward` | Swen Mun, Nine Chronicles DX team <engineering@planetariumhq.com> | Core | Final |
+| [18](NCIP/ncip-18.md) | Retrieve FunngibleAssetValue transfer from avatar to agent | ChunUng Yang, Nine Chronicles team <9c-dev@planetariumhq.com> | Core | Final |
+| [20](NCIP/ncip-20.md) | NCG Staking-Based NCG Distribution | Jaeho Lee <jaeho@planetariumhq.com>, ChunUng Yang <yang@planetariumhq.com>, Suho Lee <suho@planetariumhq.com> | Core | Final |
+| [21](NCIP/ncip-21.md) | Improvements to the Selection of Adventure Bosses for Seasonal Bosses | Jaeho Lee <jaeho@planetariumhq.com> | Core | Final |
+| [22](NCIP/ncip-22.md) | A system for continuously crafting the desired equipment - Custom Craft | Jaeho Lee <jaeho@planetariumhq.com>, Jonghyeon Moon <hyeon@planetariumhq.com>, Seonmin Kim <kimsm@planetariumhq.com> | Core | Final |
+| [23](NCIP/ncip-23.md) | Another way to obtain higher-tier equipment - the Synthesis System. | Jaeho Lee <jaeho@planetariumhq.com>, ChunUng Yang <yang@planetariumhq.com>, Eugene Hong <eugene@planetariumhq.com> | Core | Final |
+| [24](NCIP/ncip-24.md) | Arena Improvements | Jaeho Lee <jaeho@planetariumhq.com>, jeahyun choi <jonny@planetariumhq.com>, jiwon <jiwon@planetariumhq.com> | Core | Final |
+| [25](NCIP/ncip-25.md) | Improvement of World Boss Reward System | Jaeho Lee <jaeho@planetariumhq.com>, ChunUng Yang <yang@planetariumhq.com>, Eugene Hong <eugene@planetariumhq.com> | Core | Final |
+| [26](NCIP/ncip-26.md) | Remove States from Address | Nine Chronicles team <9c-dev@planetariumhq.com> | Core | Final |
